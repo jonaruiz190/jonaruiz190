@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @jonaruiz190
-- 👀 I’m interested in BackEnd
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-jonaruiz190/jonaruiz190 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👋 Hi, I'm @jonaruiz190  
+- 🔍 Interested in **Back-End Development** and **Pentesting**.  
+- 🌱 Currently learning **Python** and **Java**.  
+- 💻 Knowledgeable in **SQL**, **JavaScript**, and **C**.  
+- 🛡️ Completed a course in **Ethical Hacking**.  
+- 🚀 Aiming to grow in roles like **Sec Engineer**, **Data Analyst**, or **Back-End Developer**.  
+- 💬 Open to collaborating on cybersecurity, data analysis, and backend projects.  
+- 📫 Reach me at [your email] or connect with me on [LinkedIn link].  
